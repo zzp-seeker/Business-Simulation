@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2080039969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fdbf5ac7785cb8e606df28453b1653ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/FairyGUI/Examples/Resources/Icons/i1.png
+Dependencies: []
